@@ -16,6 +16,7 @@
 | NerdQAxe               | 4x BM1366        | https://github.com/BitMaker-hub/NerdQaxe/tree/main/qaxe     |
 | NerdQAxe+              | 4x BM1368        | https://github.com/shufps/qaxe/tree/main/nerdqaxe%2B        |
 | NerdQAxe++             | 4x BM1370        | https://github.com/shufps/qaxe/tree/main/nerdqaxe%2B%2B     |
+| NerdQAxe++ rev.7       | 4x BM1370        | https://github.com/benjamin-wilson/qaxe/tree/rev.7          |
 | NerdOCTAXE-Plus        | 8x BM1368        | https://github.com/Patsch91/NerdOCTAXE-Plus                 |
 | NerdOCTAXE-Gamma       | 8x BM1370        | https://github.com/Patsch91/NerdOCTAXE-Gamma                |
 | PiAxe                  | 1x BM1366 Pi HAT | https://github.com/shufps/piaxe                             |
