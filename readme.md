@@ -8,6 +8,7 @@
 | Bitaxe Gamma (60x)     | 1x BM1370        | [bitaxeorg/bitaxeGamma](https://github.com/bitaxeorg/bitaxeGamma)                                       |
 | Bitaxe Gamma Duo (65x) | 2x BM1370XP      | [bitaxeorg/bitaxeGamma/tree/650-duo](https://github.com/bitaxeorg/bitaxeGamma/tree/650-duo)             |
 | Bitaxe GT (80x)        | 2x BM1370        | [bitaxeorg/bitaxeGT](https://github.com/bitaxeorg/bitaxeGT)                                             |
+| BitForge Nano          | 2x BM1370        | [wantclue/bitforge-nano](https://github.com/wantcluetechnologies/bitforge-nano)                         |
 | Bitaxe Ultra Hex (30x) | 6x BM1366        | [bitaxeorg/ultraHex](https://github.com/bitaxeorg/ultraHex)                                             |
 | Bitaxe Supra Hex (70x) | 6x BM1368        | [TinyChipHub/supraHex](https://github.com/TinyChipHub/supraHex)                                         |
 | Bitaxe Gamma Hex (70x) | 6x BM1370        | [TinyChipHub/bitaxeHex-TCH](https://github.com/TinyChipHub/bitaxeHex-TCH)                               |
@@ -28,4 +29,5 @@
 | ESP-Miner (AxeOS)           | Bitaxe                           | [bitaxeorg/ESP-Miner](https://github.com/bitaxeorg/ESP-Miner)                       |
 | ESP-Miner-NerdAxe           | NerdAxe single-chip variants     | [BitMaker-hub/ESP-Miner-NerdAxe](https://github.com/BitMaker-hub/ESP-Miner-NerdAxe) |
 | ESP-Miner-NerdQAxePlus      | NerdQAxe+, NerdQAxe++, Octaxe... | [shufps/ESP-Miner-NerdQAxePlus](https://github.com/shufps/ESP-Miner-NerdQAxePlus)   |
+| ForgeOS                     | BitForge Nano                    | [WantClue/forge-OS](https://github.com/WantClue/forge-os)                           |
 | ESP-Miner-TCH               | Bitaxe 70x                       | [TinyChipHub/ESP-Miner-TCH](https://github.com/TinyChipHub/ESP-Miner-TCH)           |
