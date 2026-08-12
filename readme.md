@@ -12,6 +12,7 @@
 | Bitaxe Ultra Hex (30x) | 6x BM1366        | [bitaxeorg/ultraHex](https://github.com/bitaxeorg/ultraHex)                                             |
 | Bitaxe Supra Hex (70x) | 6x BM1368        | [TinyChipHub/supraHex](https://github.com/TinyChipHub/supraHex)                                         |
 | Bitaxe Gamma Hex (70x) | 6x BM1370        | [TinyChipHub/bitaxeHex-TCH](https://github.com/TinyChipHub/bitaxeHex-TCH)                               |
+| Bitaxe Gamma Hex (130x)| 6x BM1370        | [bitaxeorg/BitaxeGammaHex](https://github.com/bitaxeorg/BitaxeGammaHex)                               |
 | NerdAxe Ultra          | 1x BM1366        | [BitMaker-hub/NerdAxe/tree/ultra-500Ghs](https://github.com/BitMaker-hub/NerdAxe/tree/ultra-500Ghs)     |
 | NerdAxe Gamma          | 1x BM1370        | [BitMaker-hub/NerdAxe/tree/gamma-1,2Ths](https://github.com/BitMaker-hub/NerdAxe/tree/gamma-1%2C2Ths)   |
 | NerdQAxe               | 4x BM1366        | [BitMaker-hub/NerdQaxe/tree/main/qaxe](https://github.com/BitMaker-hub/NerdQaxe/tree/main/qaxe)         |
